@@ -13,5 +13,9 @@
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18",
     "nuxt": "^3.6.1"
+  },
+  "dependencies": {
+    "@thirdweb-dev/wallets": "^0.3.3",
+    "magic-sdk": "^18.2.0"
   }
 }
